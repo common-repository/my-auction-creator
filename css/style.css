@@ -1,0 +1,28 @@
+@charset "utf-8";
+/* CSS Document */
+
+iframe.med {
+	height: 252px !important;
+}
+iframe.sky {
+	height: 602px !important;
+}
+iframe.large {
+	height: 280px !important;
+}
+iframe.square {
+	height: 252px !important;
+}
+iframe.leader {
+	height: 92px !important;
+	width: 104% !important;
+}
+iframe.wide {
+	height: 602px !important;
+}
+iframe.stargrey {
+	height: 158px !important;
+}
+.entry-content, .entry-summary {
+	padding: 0 6% 5%!important;
+}
